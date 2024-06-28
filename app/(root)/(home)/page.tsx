@@ -1,6 +1,7 @@
 import MeetingTypeList from '../../../components/MeetingTypeList';
 import React from 'react'
 import Link from 'next/link'
+import Image from 'next/image';
 
 const Home = () => {
   const now = new Date();
@@ -28,10 +29,10 @@ const Home = () => {
       <div className='flex justify-center text-black-1 font-light gap-2'>
         <b>Connect :</b>
         <Link className='flex justify-center' href={'https://www.linkedin.com/in/harsh3311/'}>
-          <img src='https://quick-link-meeting.vercel.app/public/icons/github.svg' width={24} height={24} alt='github logo' />
+          <Image src='/icons/github.svg' width={24} height={24} alt='github logo' />
         </Link>
         <Link className='flex justify-center' href={'https://www.github/harsh3311/'}>
-          <img src='https://quick-link-meeting.vercel.app/public/icons/linkedin.svg' width={24} height={24} alt='linkedin logo' />
+          <Image src='/icons/linkedin.svg' width={24} height={24} alt='linkedin logo' />
         </Link>
       </div>
     </section>
