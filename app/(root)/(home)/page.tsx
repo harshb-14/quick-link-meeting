@@ -28,10 +28,10 @@ const Home = () => {
       <MeetingTypeList />
       <div className='flex justify-center text-black-1 font-light gap-2'>
         <b>Connect :</b>
-        <Link className='flex justify-center' href={'https://www.linkedin.com/in/harsh3311/'}>
+        <Link className='flex justify-center' href={'https://www.linkedin.com/in/harsh3311/'} target="_blank">
           <Image src='/icons/github.svg' width={24} height={24} alt='github logo' />
         </Link>
-        <Link className='flex justify-center' href={'https://www.github/harsh3311/'}>
+        <Link className='flex justify-center' href={'https://www.github/harsh3311/'} target="_blank">
           <Image src='/icons/linkedin.svg' width={24} height={24} alt='linkedin logo' />
         </Link>
       </div>
