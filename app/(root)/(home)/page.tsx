@@ -1,7 +1,9 @@
 import MeetingTypeList from '../../../components/MeetingTypeList';
 import React from 'react'
 import Link from 'next/link'
-import Image from 'next/image';
+import Image from 'next/image'
+import '../../../public/icons/github.svg'
+import '../../../public/icons/linkedin.svg'
 
 const Home = () => {
   const now = new Date();
