@@ -88,7 +88,7 @@ const MeetingTypeList = () => {
 
     if (!client || !user) return <Loader />;
 
-    const meetingLink = `${process.env.NEXT_PUBLIC_BASE_URL}/${callDetail?.id}`
+    const meetingLink = `https://${process.env.NEXT_PUBLIC_BASE_URL}/${callDetail?.id}`
 
     return (
         <section className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-4">
