@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/harsh3311/quick-link-meeting.git
-cd zoom-clone
+cd quick-link-meeting
 ```
 
 **Installation**
