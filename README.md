@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
+git clone https://github.com/harsh3311/quick-link-meeting.git
 cd zoom-clone
 ```
 
@@ -116,6 +116,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-Deployment of the project can be found [here](https://drive.google.com/file/d/1ofTpWii_sCIdJ14uQ431xWVXpYgjtQ8Q/view?usp=sharing)
+Deployment of the project can be found [here](http://quick-link-meeting.vercel.app)
 
 #
