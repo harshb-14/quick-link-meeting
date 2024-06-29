@@ -18,7 +18,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+4. 🌟 [Here's why quick.link stands out](#why)
+5. 🤸 [Quick Start](#quick-start)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -28,6 +29,7 @@ Let's Connect
 
 <a href="https://linkedin.com/in/harsh3311" target="_blank"><img src="https://github.com/harsh3311/quick-link-meeting/assets/111215347/7d7a2813-85d7-472e-a2d7-5945b8dfe7f3" width="100px"/></a>
 
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
@@ -36,17 +38,13 @@ Let's Connect
 - getstream
 - shadcn
 - Tailwind CSS
+  
 
 ## <a name="features">🔋 Features</a>
 
-
 👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods. Ensures appropriate access levels and permissions within the platform, safeguarding user data and privacy.
 
-👉 **New Meeting**: Quickly start a new meeting, configuring camera and microphone settings before joining. Our intuitive interface ensures a seamless setup process for immediate video calls.
-
-👉 **Meeting Controls**: Participants have full control over meeting aspects, including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and individual participant management (pinning, muting, unmuting, blocking, allowing video share). Enhance your video meeting experience with comprehensive control options.
-
-👉 **Exit Meeting**: Participants can leave a meeting, or creators can end it for all attendees. Simplifies the process of managing meeting attendance and ensuring smooth meeting closure.
+👉 **Instant Meeting**: Quickly start a new meeting, configuring camera and microphone settings before joining. Our intuitive interface ensures a seamless setup process for immediate video calls.
 
 👉 **Schedule Future Meetings**: Input meeting details (date, time) to schedule future meetings. These meetings are accessible on the 'Upcoming Meetings' page, where you can share the link or start the meeting immediately. Plan ahead with ease.
 
@@ -58,9 +56,19 @@ Let's Connect
 
 👉 **Join Meetings via Link**: Easily join meetings created by others by providing a link. Simplifies the process of joining meetings without the need for complex setup or additional downloads.
 
-👉 **Secure Real-time Functionality**: All interactions within the platform are secure and occur in real-time, maintaining user privacy and data integrity. Enjoy safe and instantaneous communication.
-
 👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions. Enjoy a consistent and intuitive interface on any device.
+
+
+## <a name="why">🌟 Here's why quick.link stands out</a>
+
+👉 **Memorable Meeting IDs**: Our platform generates easy-to-remember meeting IDs in the format ABCD-EFGH-IJKL, enhancing user convenience.
+
+👉 **Personal Meeting IDs**: Receive a unique personal meeting ID that you can share with anyone for quick access to your meetings, streamlining the invitation process.
+
+👉 **No Download Required**: Start your meetings without any delay or the need to download any application, providing instant connectivity.
+
+👉 **Free Recording Access**: Record your meetings for free and view them anytime, ensuring you never miss important details.
+
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
