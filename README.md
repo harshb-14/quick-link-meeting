@@ -1,15 +1,15 @@
 <div align="center">
   <br />
-    <a href="https://quick-link-meeting.vercel.app/" target="_blank">
+    <a href="https://quick-link.live/" target="_blank">
       <img src="https://github.com/harsh3311/quick-link-meeting/assets/111215347/729a5f80-1560-40be-9914-e71e7d556302" alt="Project Banner">
     </a>
   
   <br />
 
-  <a href="https://quick-link-meeting.vercel.app/"><h1 align="center">quick.link</h3></a>
+  <a href="https://quick-link.live/"><h1 align="center">quick.link</h3></a>
 
    <div align="center">
-     Connect, Collaborate, and Capture every moment with <a href="https://quick-link-meeting.vercel.app/">quick.link</a> - ultimate video calling platform.
+     Connect, Collaborate, and Capture every moment with <a href="https://quick-link.live/">quick.link</a> - ultimate video calling platform.
     </div>
 </div>
 
@@ -124,6 +124,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-Deployment of the project can be found [here](http://quick-link-meeting.vercel.app)
+Deployment of the project can be found [here](http://quick-link.live)
 
 #
