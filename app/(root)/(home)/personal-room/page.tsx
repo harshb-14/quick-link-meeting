@@ -53,7 +53,7 @@ const PersonalRoom = () => {
     router.push(`/${meetingId}?personal=true`);
   };
 
-  const meetingLink = `${process.env.NEXT_PUBLIC_BASE_URL}/${meetingId}?personal=true`;
+  const meetingLink = `https://${process.env.NEXT_PUBLIC_BASE_URL}/${meetingId}?personal=true`;
 
   return (
     <section className="flex size-full flex-col gap-10 text-[#000000] rounded-2xl border-2 border-black-1 p-11">
