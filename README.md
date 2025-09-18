@@ -1,36 +1,36 @@
 <div align="center">
   <br />
-    <a href="https://quick-link.live/" target="_blank">
+    <a href="https://quick-link-meeting.vercel.app/" target="_blank">
       <img src="https://github.com/harsh3311/quick-link-meeting/assets/111215347/729a5f80-1560-40be-9914-e71e7d556302" alt="Project Banner">
     </a>
   
   <br />
 
-  <a href="https://quick-link.live/"><h1 align="center">quick.link</h3></a>
+  <a href="https://quick-link-meeting.vercel.app/"><h1 align="center">quick.link</h3></a>
 
    <div align="center">
-     Connect, Collaborate, and Capture every moment with <a href="https://quick-link.live/">quick.link</a> - ultimate video calling platform.
+     Connect, Collaborate, and Capture every moment with <a href="https://quick-link-meeting.vercel.app/">quick.link</a> - ultimate video calling platform.
     </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🌟 [Here's why quick.link stands out](#why)
-5. 🤸 [Quick Start](#quick-start)
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Here's why quick.link stands out](#why)
+5. [Quick Start](#quick-start)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 Built with the latest Next.js and TypeScript. Experience seamless video conferencing with Quick.Link, powered by Next.js and TypeScript for secure, real-time communication and effortless meeting management. Join, schedule, and record with ease – no downloads required!
 
 Let's Connect
 
-<a href="https://linkedin.com/in/harsh3311" target="_blank"><img src="https://github.com/harsh3311/quick-link-meeting/assets/111215347/7d7a2813-85d7-472e-a2d7-5945b8dfe7f3" width="100px"/></a>
+<a href="https://linkedin.com/in/harshb14" target="_blank"><img src="https://github.com/harsh3311/quick-link-meeting/assets/111215347/7d7a2813-85d7-472e-a2d7-5945b8dfe7f3" width="100px"/></a>
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - Next.js
 - TypeScript
@@ -40,7 +40,7 @@ Let's Connect
 - Tailwind CSS
   
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods. Ensures appropriate access levels and permissions within the platform, safeguarding user data and privacy.
 
@@ -59,7 +59,7 @@ Let's Connect
 👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions. Enjoy a consistent and intuitive interface on any device.
 
 
-## <a name="why">🌟 Here's why quick.link stands out</a>
+## <a name="why">Here's why quick.link stands out</a>
 
 👉 **Memorable Meeting IDs**: Our platform generates easy-to-remember meeting IDs in the format ABCD-EFGH-IJKL, enhancing user convenience.
 
@@ -70,7 +70,7 @@ Let's Connect
 👉 **Free Recording Access**: Record your meetings for free and view them anytime, ensuring you never miss important details.
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -122,8 +122,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Links</a>
+## <a name="links">Links</a>
 
-Deployment of the project can be found [here](http://quick-link.live)
+Deployment of the project can be found [here](http://quick-link-meeting.vercel.app)
 
 #
